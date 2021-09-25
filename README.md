@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Luca
 
-- 🔭 I’m currently working on my [website](https://lucatanks.xyz)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=LucaTanks&langs_count=5&theme=dark)](https://wakatime.com/@LucaTanks)
 
 <!--
 - 👯 I’m looking to collaborate on ...
